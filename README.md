@@ -1,3 +1,2 @@
-# Computer-architecture
-logic gates
+# logic gates
 Sabari K.S 192472055
